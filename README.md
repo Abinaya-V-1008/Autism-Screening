@@ -1,2 +1,2 @@
 # Autism-Screening
-Prediction and Analysis of Autism Spectrum Disorder in Toddlers using Machine Learning Techniques.
+Prediction and Analysis of Autism Spectrum Disorder for Toddlers using Machine Learning Techniques.
